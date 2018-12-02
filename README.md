@@ -1,6 +1,6 @@
 # twitch-curses
 
-![Usage](https://i.imgur.com/NPT5guh.gif)
+![Usage](https://i.imgur.com/czRDP5M.gif)
 
 This is a simple twitch.tv browser / streamlink frontend made with python and ncurses that I hacked together one day. Maybe someone will find it useful.
 
